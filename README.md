@@ -74,9 +74,3 @@ Example: If it's a Java based game/application installation, JRE is enough.
 Java Development Kit
 Ultimate bundle for Java developers.
 Includes JRE + development tools (compiler `javac`, debugger, documentation tools, etc.). Learners must write, assemble, and run Java programs. Used to write, construct, and debug Java programs.
-
-Project notes
-- Data exported to: ${user.home}/ccrm-data
-- Minimal seed data is created by the application at startup
-- To change storage path modify AppConfig.get().storageFolder() in AppConfig (simple change)
-- No external libraries required
